@@ -2,3 +2,6 @@ Hello Git
 What's up
 
 text text
+_________________
+new line
+--------
